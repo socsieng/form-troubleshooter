@@ -17,7 +17,7 @@ export default [
       copy('src/popup.html', `${buildFolder}popup.html`),
       copy('src/css', `${buildFolder}css`),
       copy('src/images', `${buildFolder}images`),
-      mergeJson(['src/manifest.json', 'manifest.key.json'], `${buildFolder}manifest.json`),
+      mergeJson(['src/manifest.json', 'manifest.version.json', 'manifest.prod.json'], `${buildFolder}manifest.json`),
     ],
   },
   {

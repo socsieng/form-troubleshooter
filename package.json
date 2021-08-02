@@ -1,6 +1,6 @@
 {
   "name": "form-troubleshooter",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "A Chrome extension to find and fix common form problems",
   "type": "module",
   "directories": {
