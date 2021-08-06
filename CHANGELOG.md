@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://www.github.com/socsieng/form-troubleshooter/compare/v1.2.0...v1.3.0) (2021-08-06)
+
+
+### Features
+
+* truncate attributes and text ([e6e7d9e](https://www.github.com/socsieng/form-troubleshooter/commit/e6e7d9e901b4b88efe241322ca64f4527a7bc346)), closes [#34](https://www.github.com/socsieng/form-troubleshooter/issues/34)
+
 ## 1.2.0 (2021-08-06)
 
 
