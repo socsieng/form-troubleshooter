@@ -40,6 +40,22 @@ interface ContextSuggestion {
   suggestion?: string | null;
 }
 
+interface ContextReasons {
+  reasons: Array<{ type: string; reference: string }>;
+}
+
+interface ContextText {
+  text: string;
+}
+
+interface ContextFields {
+  fields: TreeNodeWithParent[];
+}
+
+interface ContextInvalidAttributes {
+  invalidAttributes: Array<{ attribute: string; suggestion: string | null }>;
+}
+
 interface ContextDuplicates {
   duplicates?: TreeNodeWithParent[];
 }
