@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.3.0](https://www.github.com/socsieng/form-troubleshooter/compare/v1.2.0...v1.3.0) (2021-08-06)
+
+
+### Features
+
+* truncate attributes and text ([13638df](https://www.github.com/socsieng/form-troubleshooter/commit/13638df19f0e0b85202dc219fc744fb83254b3d3)), closes [#34](https://www.github.com/socsieng/form-troubleshooter/issues/34)
+
+
+### Bug Fixes
+
+* avoid changing node identity when running audits ([68d48bb](https://www.github.com/socsieng/form-troubleshooter/commit/68d48bb69cf996856da5f11bf39506aa35b1c0db)), closes [#39](https://www.github.com/socsieng/form-troubleshooter/issues/39)
+
 ## 1.2.0 (2021-08-06)
 
 
