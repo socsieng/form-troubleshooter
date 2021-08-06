@@ -77,7 +77,7 @@ const App: FunctionalComponent = () => {
     } else {
       (async () => {
         // test data for development
-        const testData = (await import('../test-data/score.json')) as unknown as TreeNode;
+        const testData = (await import('../test-data/shopify.json')) as unknown as TreeNode;
         const doc = getTreeNodeWithParents(testData);
         setTree(doc);
         const results = runAudits(doc);
