@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.2.1](https://www.github.com/socsieng/form-troubleshooter/compare/v1.2.0...v1.2.1) (2021-08-06)
+
+
+### Bug Fixes
+
+* avoid changing node identity when running audits ([68d48bb](https://www.github.com/socsieng/form-troubleshooter/commit/68d48bb69cf996856da5f11bf39506aa35b1c0db)), closes [#39](https://www.github.com/socsieng/form-troubleshooter/issues/39)
+
 ## 1.2.0 (2021-08-06)
 
 
