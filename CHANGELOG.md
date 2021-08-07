@@ -1,5 +1,12 @@
 # Changelog
 
+### [3.2.1](https://www.github.com/socsieng/form-troubleshooter/compare/v1.2.0...v3.2.1) (2021-08-07)
+
+
+### Miscellaneous Chores
+
+* bump version to 3.2.1 ([f718dc2](https://www.github.com/socsieng/form-troubleshooter/commit/f718dc2bb5aaa06215a051824deb463edc6dc9b5))
+
 ## 1.2.0 (2021-08-06)
 
 
