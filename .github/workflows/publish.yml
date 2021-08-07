@@ -27,9 +27,7 @@ jobs:
           CLIENT_SECRET: ${{secrets.GOOGLE_CLIENT_SECRET}}
           REFRESH_TOKEN: ${{secrets.GOOGLE_REFRESH_TOKEN}}
 
-      - uses: actions/upload-artifact@v2
-        with:
-          name: form-troubleshooter-extension
-          path: |
-            build/
-            !build/extension.zip
+      - name: debug
+        run: |
+          echo '${{ toJSON(github) }}'
+          echo '${{ toJSON(job) }}'
