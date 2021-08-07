@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://www.github.com/socsieng/form-troubleshooter/compare/v1.2.0...v1.3.0) (2021-08-07)
+
+
+### Features
+
+* dynamically load test data during development from query string ([6e2055b](https://www.github.com/socsieng/form-troubleshooter/commit/6e2055b7eb2ce07701d354f7d4b5fc8ba064b567))
+
 ## 1.2.0 (2021-08-06)
 
 
